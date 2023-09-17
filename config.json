@@ -51,6 +51,6 @@
     ".*"
   ],
   "workers": [
-    "https://apiiiii.delivrjs.workers.dev"
+    "https://worker-falling-rain-241b.0nta-tamvan.workers.dev"
   ]
 }
